@@ -8,18 +8,21 @@ It also has the **ADAPT Feature(ADAPT)** to store chats from meeting.
 
 ## Features
 
-- Video Conversation
+- Video conversation between multiple people
+- Passcode feature for authentication
 - Mic Off/On
 - Video Off/On
 - End Call
-- Screen Share
+- Screen Sharing on Video Call
 - Meeting Chat
 - Hand Raise
 - Copy Meeting Link
-- Passcode for Meeting
 - Send meeting invite on mail
-- Chat page for accessing meeting chats after the meeting **(ADAPT Feature)**
-- Lunch Time Page (To meet new people and talk on a topic during lunch time)
+- Chat page for accessing and continuing the conversation after the meeting **(ADAPT Feature)**
+  - To store chats from during the meeting
+- Lunch Time Page **(X-Factor)**
+  - Virtual lunch calling/discussions/chit chat sessions
+  - Socialize with people of common interests
 
 ## Tech
 
