@@ -2,7 +2,7 @@
 ## Microsoft Teams Clone (Project Challenge of Microsoft Engage 2021)
 
 Chill Zone is a full-stack web application on which multiple people can have a video conversation.
-I have also implemented the **(Chat Feature(ADAPT))** to store chats from meeting.
+I have also implemented the **Chat Feature(ADAPT)** to store chats from meeting.
 
 ## Features
 
