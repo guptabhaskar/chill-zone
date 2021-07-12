@@ -48,5 +48,7 @@ npm run start
 ```
 Visit http://localhost:3000 and start chatting! Join a meeting across two browser tabs to see it working in realtime 🥳
 
+## Contact
 
+Bhaskar Gupta - bhaskar19237@iiitd.ac.in
 
