@@ -7,7 +7,7 @@ Implemented the **ADAPT Feature(ADAPT)** to store chats from meeting.
 <br>
 Created Lunch Time Page **(X-Factor)** where people can have virtual lunch calling/discussions/chit chat sessions and socialize with people of common interests.
 
-### [Agile Methodology Followed](https://drive.google.com/file/d/1kmdeOyCu8w-Z5jPMkXzKgrTGDN_2ARVg/view?usp=sharing)
+### [Agile Methodology Followed](https://docs.google.com/presentation/d/1b30V338Wkf8uzGN0aPfRpWI2wMh86PDkwV6lSvISZL8/edit?usp=sharing)
 
 ## Features
 
