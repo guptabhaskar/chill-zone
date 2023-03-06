@@ -20,7 +20,7 @@ function Lunch() {
       .then((res) => {
         setMeetings(res.data);
       })
-  });
+  }, []);
   
   return (
     <React.Fragment>
