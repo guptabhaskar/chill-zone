@@ -1,11 +1,11 @@
 # Chill Zone
-## Microsoft Teams Clone (Project Challenge of Microsoft Engage 2021)
+## Video calling web application
 
 Chill Zone is a full-stack web application on which multiple people can have a video conversation.
 <br>
 Implemented the **ADAPT Feature(ADAPT)** to store chats from meeting. 
 <br>
-Created Lunch Time Page **(X-Factor)** where people can have virtual lunch calling/discussions/chit chat sessions and socialize with people of common interests.
+Created a Lunch Time Page where people can have virtual lunch calling/discussions/chit chat sessions and socialize with people of common interests.
 
 ### [Agile Methodology Followed](https://docs.google.com/presentation/d/1b30V338Wkf8uzGN0aPfRpWI2wMh86PDkwV6lSvISZL8/edit?usp=sharing)
 
@@ -56,5 +56,5 @@ Visit http://localhost:3000 and start chatting! Join a meeting across two browse
 
 ## Contact
 
-Bhaskar Gupta - bhaskar19237@iiitd.ac.in
+Bhaskar Gupta - guptabhanu1999@gmail.com
 
