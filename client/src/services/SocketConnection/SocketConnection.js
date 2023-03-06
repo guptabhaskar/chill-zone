@@ -2,7 +2,7 @@ import { io } from 'socket.io-client';
 import Peer from 'peerjs';
 import { toast } from 'react-toastify';
 // const websocket = 'ws://localhost:5000';
-const websocket = 'https://chillzone-server.herokuapp.com/';
+const websocket = process.env.REACT_APP_BACKEND_URL;
 
 let socketInstance = null;
 let peers = {};

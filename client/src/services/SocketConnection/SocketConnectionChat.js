@@ -1,7 +1,7 @@
 import { io } from 'socket.io-client';
 import { APICalls } from "../API/APICalls";
 // const websocket = 'ws://localhost:5000';
-const websocket = 'https://chillzone-server.herokuapp.com/';
+const websocket = process.env.REACT_APP_BACKEND_URL;
 
 let socketInstance = null;
 
