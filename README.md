@@ -1,13 +1,12 @@
 # Chill Zone
+
 ## Video calling web application
 
 Chill Zone is a full-stack web application on which multiple people can have a video conversation.
 <br>
-Implemented the **ADAPT Feature(ADAPT)** to store chats from meeting. 
+Implemented the **ADAPT Feature(ADAPT)** to store chats from meeting.
 <br>
 Created a Lunch Time Page where people can have virtual lunch calling/discussions/chit chat sessions and socialize with people of common interests.
-
-### [Agile Methodology Followed](https://docs.google.com/presentation/d/1b30V338Wkf8uzGN0aPfRpWI2wMh86PDkwV6lSvISZL8/edit?usp=sharing)
 
 ## Features
 
@@ -52,9 +51,9 @@ cd server
 npm i
 npm run start
 ```
+
 Visit http://localhost:3000 and start chatting! Join a meeting across two browser tabs to see it working in realtime 🥳
 
 ## Contact
 
 Bhaskar Gupta - guptabhanu1999@gmail.com
-
